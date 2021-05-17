@@ -93,7 +93,7 @@ def train_one_batch(opts, model, train_batch, val_batch, optimizer, tolerance=0.
 # -- tests
 
 def test():
-    pass()
+    pass
 
 # -- __main__
 
