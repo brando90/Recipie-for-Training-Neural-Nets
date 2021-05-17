@@ -8,12 +8,14 @@
 
 If you use this implementation consider citing us:
 
+```
 @software{brando2021recipie,
     author={Brando Miranda},
     title={Recipie-for-Training-Neural-Nets},
     url={https://github.com/brando90/ultimate-utils},
     year={2021}
 }
+```
 
 
 ## Inspired from Karpathy's (and others) discussions
