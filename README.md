@@ -12,7 +12,7 @@ If you use this implementation consider citing us:
 @software{brando2021recipie,
     author={Brando Miranda},
     title={Recipie-for-Training-Neural-Nets},
-    url={https://github.com/brando90/ultimate-utils},
+    url={https://github.com/brando90/Recipie-for-Training-Neural-Nets},
     year={2021}
 }
 ```
