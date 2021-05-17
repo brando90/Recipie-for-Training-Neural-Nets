@@ -37,3 +37,6 @@ references:
 - https://karpathy.github.io/2019/04/25/recipe/ 
 - https://www.bigmarker.com/missinglink-ai/PyTorch-Code-to-Unpack-Andrej-Karpathy-s-6-Most-Common-NN-Mistakes 
 - https://github.com/brando90/Recipie-for-Training-Neural-Nets
+- https://www.youtube.com/watch?v=-SY4-GkDM8g
+- https://www.youtube.com/watch?v=R_o6nUC1Nzo
+- https://www.youtube.com/watch?v=jompe29_A74
