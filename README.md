@@ -36,3 +36,4 @@ references:
 - https://pcc.cs.byu.edu/2017/10/02/practical-advice-for-building-deep-neural-networks/ 
 - https://karpathy.github.io/2019/04/25/recipe/ 
 - https://www.bigmarker.com/missinglink-ai/PyTorch-Code-to-Unpack-Andrej-Karpathy-s-6-Most-Common-NN-Mistakes 
+- https://github.com/brando90/Recipie-for-Training-Neural-Nets
