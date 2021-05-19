@@ -45,3 +45,4 @@ references:
 - https://www.youtube.com/watch?v=-SY4-GkDM8g
 - https://www.youtube.com/watch?v=R_o6nUC1Nzo
 - https://www.youtube.com/watch?v=jompe29_A74
+- https://karpathy.medium.com/yes-you-should-understand-backprop-e2f06eab496b
