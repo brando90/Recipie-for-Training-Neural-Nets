@@ -17,6 +17,11 @@ If you use this implementation consider citing us:
 }
 ```
 
+## What is implemented to show each feature
+
+1. I've implemented a train only on 1 batch
+2. I've implemented increase model and data set complexity/size.
+
 
 ## Inspired from Karpathy's (and others) discussions
 
